@@ -1,6 +1,8 @@
 # ReclaimerMini
 Functional miniature of an ore recovery machine.
 
+**Watch the reclaimer video: https://youtu.be/_C1OsoCVHH4**
+
 ![reclaimer6](https://github.com/cassio-hsp/ReclaimerMini/blob/main/1.Images/reclaimer6.jpg)
 
 ![reclaimer1](https://github.com/cassio-hsp/ReclaimerMini/blob/main/1.Images/reclaimer1.png)
