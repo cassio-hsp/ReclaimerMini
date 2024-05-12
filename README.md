@@ -5,9 +5,9 @@ Functional miniature of an ore recovery machine.
 
 ![reclaimer6](https://github.com/cassio-hsp/ReclaimerMini/blob/main/1.Images/reclaimer6.jpg)
 
-![reclaimer3](https://github.com/cassio-hsp/ReclaimerMini/blob/main/1.Images/reclaimer3.png)
-
 ![reclaimer1](https://github.com/cassio-hsp/ReclaimerMini/blob/main/1.Images/reclaimer1.png)
+
+![reclaimer3](https://github.com/cassio-hsp/ReclaimerMini/blob/main/1.Images/reclaimer3.png)
 
 
 ## Electronics
